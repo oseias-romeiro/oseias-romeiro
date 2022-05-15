@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently database trainee
+
+🌱 I’m currently learning Ciensce Computer
+
 <!--
 **oseias-romeiro/oseias-romeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
