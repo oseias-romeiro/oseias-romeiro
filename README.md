@@ -1,7 +1,9 @@
-### Hi there 👋
+ ### Hi there 👋
 
+<div style="background-image: url(https://img.wattpad.com/fb0b663804819058086a1b7f0a2d370c6bde6c6f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f43304b6a457a38484339665935513d3d2d313034383431333933332e313639363566323533353134393764643735393539363430353638392e676966);">
+   
 🔭 I’m currently database trainee
 
 🌱 I’m currently learning Science Computer
+</div>
 
-<marquee behavior="scroll" direction="right">teste</marquee>
