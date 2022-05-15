@@ -4,7 +4,9 @@
 
 🌱 I’m currently learning Ciensce Computer
 
-<iframe src="game.html" frameborder="0" height="700" width="100%"></iframe>
+<div>
+    <iframe src="game.html" frameborder="0" height="700" width="100%"></iframe>
+</div>
 
 <!--
 **oseias-romeiro/oseias-romeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
