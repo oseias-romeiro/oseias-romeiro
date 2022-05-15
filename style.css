@@ -1,0 +1,10 @@
+
+#mainWindow {
+    position: relative;
+}
+
+#boy {
+    position: absolute;
+    left: 0;
+    top: 240px;
+}
