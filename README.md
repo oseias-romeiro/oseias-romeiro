@@ -4,21 +4,19 @@
 
 🌱 I’m currently learning Ciensce Computer
 
-<div>
-    <iframe src="game.html" frameborder="0" height="700" width="100%"></iframe>
+<div class="root">
+    <img id="mainWindow" src="https://opengameart.org/sites/default/files/parallax-industrial-anim_x2_0.gif" alt="">
+    <img id="boy" src="https://i.giphy.com/media/jBvHCY91NcurK/giphy.webp" width="5%">
 </div>
 
-<!--
-**oseias-romeiro/oseias-romeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+    #mainWindow {
+        position: relative;
+    }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    #boy {
+        position: absolute;
+        left: 0;
+        top: 240px;
+    } 
+</style>
