@@ -20,8 +20,8 @@
     <img align="center" alt="Java" height="30" width="30" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img align="center" alt="django" height="30" width="30" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-    <img align="center" alt="php" height="30" width="40" src="https://www.designbust.com/download/240/png/php_icon512.png">
+    <img align="center" alt="django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
+    <img align="center" alt="php" height="40" width="40" src="https://www.designbust.com/download/240/png/php_icon512.png">
     <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="github" height="35" width="35" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
