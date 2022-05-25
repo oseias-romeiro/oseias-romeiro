@@ -17,7 +17,7 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
-    <img align="center" alt="Java" height="30" width="30" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png">
+    <img align="center" alt="Java" height="30" width="30" src="https://dev.java/assets/images/java-logo-vert-blk.png">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
     <img align="center" alt="django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
