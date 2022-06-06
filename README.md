@@ -2,7 +2,7 @@
    
 🔭 I’m currently database trainee
 
-🌱 I’m currently learning Science Computer
+🌱 I’m currently learning IT infrastructure
 
 <div align="center">
   <a href="https://github.com/oseias-romeiro">
