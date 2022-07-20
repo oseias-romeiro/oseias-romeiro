@@ -15,9 +15,6 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
     <img align="center" alt="Java" height="30" width="30" src="https://dev.java/assets/images/java-logo-vert-blk.png">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img align="center" alt="django" height="40" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
     <img align="center" alt="php" height="40" width="40" src="https://www.designbust.com/download/240/png/php_icon512.png">
     <img align="center" alt="postgresql" height="40" width="40" src="https://www.postgresql.org/favicon.ico">
     <img align="center" alt="mongoDB" height="40" width="40" src="https://www.mongodb.com/assets/images/global/favicon.ico">
