@@ -1,8 +1,13 @@
- ### Hi there 👋
+ ### Hi there 👋 I'm Oseias Romeiro
    
-🔭 I’m currently database trainee
+- :computer: I’m a Computer Science student
+- :bar_chart: I’m currently database trainee
+- :pencil2: I’m studying IT infrastructure
+- :musical_score: I like play bass and watch animes :japan:
 
-🌱 I’m currently learning IT infrastructure
+### Check my [portfolio](https://oseias-romeiro.github.io/portfolio/)
+
+---
 
 <div align="center">
   <a href="https://github.com/oseias-romeiro">
@@ -28,3 +33,5 @@
   <a href="https://www.linkedin.com/in/oseias-romeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:oseiasromeirom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+---
