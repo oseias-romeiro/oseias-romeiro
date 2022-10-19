@@ -2,7 +2,6 @@
    
 - :computer: I’m a Computer Science student
 - :bar_chart: I’m currently database trainee
-- :pencil2: I’m studying IT infrastructure
 - :musical_score: I like play bass and animes :japan:
 
 ### Check my [portfolio](https://oseias-romeiro.github.io/portfolio/).
