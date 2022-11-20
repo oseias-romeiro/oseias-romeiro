@@ -4,8 +4,6 @@
 - :bar_chart: I’m currently database trainee
 - :musical_score: I like play bass and animes :japan:
 
-### Check my [portfolio](https://oseias-romeiro.github.io/portfolio/).
-
 ---
 
 <div align="center">
