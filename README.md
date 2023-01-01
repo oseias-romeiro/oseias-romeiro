@@ -2,7 +2,7 @@
    
 - :computer: I’m a Computer Science student
 - :bar_chart: I’m currently database trainee
-- :musical_score: I like play bass :guitar:
+- :guitar: I like play bass
 
 ---
 
