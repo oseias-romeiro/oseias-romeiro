@@ -17,7 +17,7 @@
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png">
     <img align="center" alt="Java" height="30" width="30" src="https://dev.java/assets/images/java-logo-vert-blk.png">
     <img align="center" alt="php" height="40" width="40" src="https://www.designbust.com/download/240/png/php_icon512.png">
-    <img align="center" alt="sql" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png">
+    <img align="center" alt="sql" height="40" width="40" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png">
     <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="github" height="35" width="35" src="https://github.com/duribeiro/duribeiro/blob/main/assets/GitHub.png">
     <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
