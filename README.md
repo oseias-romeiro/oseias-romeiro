@@ -13,7 +13,7 @@
 </div>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oseias-romeiro&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oseias-romeiro&&theme=gotham&hide_border=false&&layout=compact)
 
 <div align="center" valign="top"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
