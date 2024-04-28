@@ -1,7 +1,6 @@
  ### Hi there 👋 I'm Oseias Romeiro
    
 - :computer: I’m a Computer Science student
-- :bar_chart: I’m currently database administration intern
 
 ---
 
