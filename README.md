@@ -1,7 +1,7 @@
 # Oseias Romeiro
 
-- :computer: Estudante de Ciências da Computação
-- :dart: Foco atual em dados
+- 💻 Estudante de Ciências da Computação
+- 🎯 Foco atual em dados
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="margin-right: 20px" alt="Python" width="50"/>
@@ -14,5 +14,4 @@
 ---
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oseias-romeiro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:oseiasromeirom@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oseias.romeiro/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:romeiro.osea@gmail.com)
