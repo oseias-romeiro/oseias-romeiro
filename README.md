@@ -3,7 +3,7 @@
 - 🎓 Estudante de Ciências da Computação
 - 📊 Focado em dados e desenvolvimento de soluções inteligentes
 
-Trabalho na interseção entre desenvolvimento backend e engenharia de dados, criando soluções escaláveis para coleta, processamento e análise de informações.
+Trabalho na interseção entre desenvolvimento de software e engenharia de dados, criando soluções escaláveis para coleta, processamento e análise de informações.
 Tenho experiência com pipelines de dados, integração de APIs, bancos relacionais, e deploy de aplicações em ambientes containerizados e serverless.
 
 <div align="center">
