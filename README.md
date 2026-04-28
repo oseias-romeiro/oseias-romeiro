@@ -1,11 +1,12 @@
 # Oseias Romeiro
 
-- 🎓 Estudante de Ciências da Computação
-- 📊 Focado em dados e desenvolvimento de soluções inteligentes
+🎓 Computer Science Student at [UnB](https://www.unb.br)
 
-Trabalho na interseção entre desenvolvimento de software e engenharia de dados, criando soluções escaláveis para coleta, processamento e análise de informações.
-Tenho experiência com pipelines de dados, integração de APIs, bancos relacionais, e deploy de aplicações em ambientes containerizados e serverless.
+👨‍💻 Currently working at [Federal Senate (Brazil)](https://www12.senado.leg.br/institucional/carta-de-servicos/en/carta-de-servicos)
 
+📊 Focused on Data Science and AI, building scalable and insight-driven solutions
+
+<!-- 
 <h4 align="center">👨‍💻 Linguagens & Desenvolvimento</h4>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
@@ -34,11 +35,11 @@ Tenho experiência com pipelines de dados, integração de APIs, bancos relacion
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60"/>
 </div>
-
+-->
 
 ---
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://romeiro.tech)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/oseias-romeiro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:romeiro.osea@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:romeiro.osea@gmail.com)
 
